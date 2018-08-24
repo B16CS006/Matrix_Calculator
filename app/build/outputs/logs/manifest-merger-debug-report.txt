@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+application
+ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\bb0dded64afe08a30abea2104ee6903794d6aab4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\CP MEENA\.android\build-cache\62f1caa5ce1e28157f655001f8db8820615b96d6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\CP MEENA\.android\build-cache\dd1a11fcb58473b78146ebf258a4d7840653c927\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\CP MEENA\.android\build-cache\e928f1e5b7471af6c75adff6507677c5b3e5aad5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\CP MEENA\.android\build-cache\6c6d036a19c7d2c832722965738e3a855c3898d3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\CP MEENA\.android\build-cache\266e251e10164c1fbe0bc07260a36075361ed604\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\CP MEENA\.android\build-cache\30f4bfbfe6449fe55eee005d051ccff654e3b3a6\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CP MEENA\.android\build-cache\2bd79381b85bb2610a2b1f5127e32b3dfa241649\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\CP MEENA\.android\build-cache\3427e1cb7f330f5f0b248076abfb1a59d994fcc0\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\CP MEENA\.android\build-cache\a62f46f8bd8c9aeae0f82a72584c3b86eaaefd2f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\c2bc3d92b8585eff261ee0de5484c593c80c4de4\output\AndroidManifest.xml:26:5-20
+	android:label
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:10:9-35
+	android:fullBackupContent
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:12:9-59
+	android:roundIcon
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:11:9-40
+activity#cpmeena.matrix.MainActivity
+ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:17:27-74
+activity#cpmeena.matrix.final_result
+ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:20:9-22:20
+	android:name
+		ADDED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml:20:19-47
+uses-sdk
+INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\bb0dded64afe08a30abea2104ee6903794d6aab4\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\CP MEENA\.android\build-cache\62f1caa5ce1e28157f655001f8db8820615b96d6\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\CP MEENA\.android\build-cache\dd1a11fcb58473b78146ebf258a4d7840653c927\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\CP MEENA\.android\build-cache\e928f1e5b7471af6c75adff6507677c5b3e5aad5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\CP MEENA\.android\build-cache\6c6d036a19c7d2c832722965738e3a855c3898d3\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\CP MEENA\.android\build-cache\266e251e10164c1fbe0bc07260a36075361ed604\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\CP MEENA\.android\build-cache\30f4bfbfe6449fe55eee005d051ccff654e3b3a6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\CP MEENA\.android\build-cache\2bd79381b85bb2610a2b1f5127e32b3dfa241649\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\b266afea1b998aac7649b6e302d70e506395264c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\CP MEENA\.android\build-cache\3427e1cb7f330f5f0b248076abfb1a59d994fcc0\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\CP MEENA\.android\build-cache\a62f46f8bd8c9aeae0f82a72584c3b86eaaefd2f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\c2bc3d92b8585eff261ee0de5484c593c80c4de4\output\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\bb0dded64afe08a30abea2104ee6903794d6aab4\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+		INJECTED from M:\projects\android_projects\Matrix\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\bb0dded64afe08a30abea2104ee6903794d6aab4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\CP MEENA\.android\build-cache\62f1caa5ce1e28157f655001f8db8820615b96d6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\CP MEENA\.android\build-cache\dd1a11fcb58473b78146ebf258a4d7840653c927\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\CP MEENA\.android\build-cache\e928f1e5b7471af6c75adff6507677c5b3e5aad5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\CP MEENA\.android\build-cache\6c6d036a19c7d2c832722965738e3a855c3898d3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\CP MEENA\.android\build-cache\266e251e10164c1fbe0bc07260a36075361ed604\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\CP MEENA\.android\build-cache\30f4bfbfe6449fe55eee005d051ccff654e3b3a6\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\b266afea1b998aac7649b6e302d70e506395264c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\CP MEENA\.android\build-cache\3427e1cb7f330f5f0b248076abfb1a59d994fcc0\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\CP MEENA\.android\build-cache\a62f46f8bd8c9aeae0f82a72584c3b86eaaefd2f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\c2bc3d92b8585eff261ee0de5484c593c80c4de4\output\AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\bb0dded64afe08a30abea2104ee6903794d6aab4\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\CP MEENA\.android\build-cache\bb0dded64afe08a30abea2104ee6903794d6aab4\output\AndroidManifest.xml:26:9-47

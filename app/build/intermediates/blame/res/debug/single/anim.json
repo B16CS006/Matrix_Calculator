@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\CP MEENA\\.android\\build-cache\\bb0dded64afe08a30abea2104ee6903794d6aab4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

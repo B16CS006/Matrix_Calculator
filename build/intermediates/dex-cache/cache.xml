@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\CP MEENA\.android\build-cache\b266afea1b998aac7649b6e302d70e506395264c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="M:\projects\android_projects\Matrix\app\build\intermediates\pre-dexed\debug\classes_1dda236db71143bf2c7c3a9508554fdfb287e6f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\CP MEENA\.android\build-cache\c2bc3d92b8585eff261ee0de5484c593c80c4de4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5d103b270b3f3b50d8e6b44aa8e068b0de33426">
+        <dex dex="M:\projects\android_projects\Matrix\app\build\intermediates\pre-dexed\debug\classes_2532549df20b58a1829c1c5be2f81a625377fd7b.jar" />
+    </item>
+
+</items>

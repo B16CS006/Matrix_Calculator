@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "M:\\projects\\android_projects\\Matrix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "M:\\projects\\android_projects\\Matrix\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher_round.png",
+        "source": "M:\\projects\\android_projects\\Matrix\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
